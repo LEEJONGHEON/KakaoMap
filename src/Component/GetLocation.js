@@ -79,7 +79,7 @@ const GetLocation = () => {
  
     return (
         <div>
-            <div id="map" style={{width:'100%', height:'800px',position:'relative', overflow:'hidden' }}></div>
+            <div id="map" style={{width: '100%', height: '800px', position: 'relative', overflow: 'hidden'}}/>
         </div>
     );
 };

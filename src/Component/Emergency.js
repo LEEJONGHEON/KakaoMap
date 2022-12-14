@@ -1,7 +1,7 @@
 import { useState } from "react";
 import SearchMap from "./SearchMap";
 const Emergency = () => {
-    const [query, setQuery] = useState('강남 응급실');
+    const [query, setQuery] = useState('강남');
     
     return (
         <div>

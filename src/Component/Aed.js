@@ -2,7 +2,7 @@ import { useState } from "react";
 import SearchMap from "./SearchMap";
 
 const Aed = () => {
-    const [query, setQuery] = useState('제세동기');
+    const [query, setQuery] = useState('강남');
     
     return (
         <div>

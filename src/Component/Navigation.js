@@ -15,6 +15,7 @@ const Navigation = () => {
             <Nav.Link href="Aed">자동제세동기(AED)</Nav.Link>
             <Nav.Link href="Rescue">응급처치방법</Nav.Link>
             <Nav.Link href="MapPicture">지도</Nav.Link>
+            <Nav.Link href="Map">지도2</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
